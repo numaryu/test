@@ -17,7 +17,7 @@ none
 
 This project include submodule(s). To clone everything at once  
 ```sh
-# git clone --recursive https://github.com/numaryu/test.git`
+# git clone --recursive https://github.com/numaryu/test.git
 ```
 
 Or, to get submodule(s) after cloning,  
